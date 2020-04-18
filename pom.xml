@@ -3,21 +3,21 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.teamgold</groupId>
-    <artifactId>TeamGoldStartCode</artifactId>
+    <artifactId>ca3</artifactId>
     <version>1</version>
     <packaging>war</packaging>
 
-    <name>TeamGoldStartCode</name>
+    <name>CA3</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <remote.server>https://paepke.software/manager/text</remote.server>
-        <sonar.projectKey>Paepke-cph_TeamGoldStartCode-Backend</sonar.projectKey>
-        <sonar.organization>paepke-cph</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>c68bcd9dccd642bfc10b7b5d3e2b4bed5da286d6</sonar.login>
+        <remote.server>https://madsbrandt.codes/manager/text</remote.server>
+<!--        <sonar.projectKey>Paepke-cph_TeamGoldStartCode-Backend</sonar.projectKey>-->
+<!--        <sonar.organization>paepke-cph</sonar.organization>-->
+<!--        <sonar.host.url>https://sonarcloud.io</sonar.host.url>-->
+<!--        <sonar.login>c68bcd9dccd642bfc10b7b5d3e2b4bed5da286d6</sonar.login>-->
     </properties>
 
     <dependencies>
