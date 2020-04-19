@@ -50,6 +50,7 @@ import java.io.IOException;
         }
 )
 @Path("jokes")
+// Comment to trigger travis build
 public class JokeResource {
     private final String DAD_URL = "https://icanhazdadjoke.com";
     private final String CHUCK_URL = "https://api.chucknorris.io/jokes/random";
